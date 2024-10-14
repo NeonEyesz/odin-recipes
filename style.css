@@ -1,0 +1,13 @@
+main {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+
+}
+
+
+.menu {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+    background-color: antiquewhite;
+}
